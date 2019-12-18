@@ -57,7 +57,6 @@ class SudokuTest {
         assertEquals(sud3.getState(), SudokuState.UNSOLVABLE)
     }
 
-
     private val strSud2 = ("000003000"
             + "008190367"
             + "069002001"
