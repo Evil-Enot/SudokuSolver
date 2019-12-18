@@ -78,7 +78,6 @@ class SudokuTest {
             + "917638524\n"
             + "583247196")
 
-    //The world's hardest sudoku
     private val strSud3 = ("800000000"
             + "003600000"
             + "070090200"
